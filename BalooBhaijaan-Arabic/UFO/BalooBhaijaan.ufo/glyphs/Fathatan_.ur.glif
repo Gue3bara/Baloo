@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fathatan.ur" format="1">
+  <advance width="0"/>
+  <unicode hex="064B"/>
+  <outline>
+    <contour>
+      <point x="92" y="558" type="line"/>
+      <point x="105" y="560"/>
+      <point x="109" y="573"/>
+      <point x="109" y="583" type="curve" smooth="yes"/>
+      <point x="109" y="594"/>
+      <point x="99" y="608"/>
+      <point x="95" y="611" type="curve"/>
+      <point x="-97" y="584" type="line" smooth="yes"/>
+      <point x="-106" y="583"/>
+      <point x="-116" y="573"/>
+      <point x="-116" y="561" type="curve" smooth="yes"/>
+      <point x="-116" y="547"/>
+      <point x="-107" y="536"/>
+      <point x="-101" y="531" type="curve"/>
+    </contour>
+    <contour>
+      <point x="92" y="474" type="line"/>
+      <point x="105" y="476"/>
+      <point x="109" y="489"/>
+      <point x="109" y="499" type="curve" smooth="yes"/>
+      <point x="109" y="510"/>
+      <point x="99" y="524"/>
+      <point x="95" y="527" type="curve"/>
+      <point x="-97" y="500" type="line" smooth="yes"/>
+      <point x="-106" y="499"/>
+      <point x="-116" y="489"/>
+      <point x="-116" y="477" type="curve" smooth="yes"/>
+      <point x="-116" y="463"/>
+      <point x="-107" y="452"/>
+      <point x="-101" y="447" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

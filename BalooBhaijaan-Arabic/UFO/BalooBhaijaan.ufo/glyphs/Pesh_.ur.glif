@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pesh.ur" format="1">
+  <advance width="0"/>
+  <unicode hex="064F"/>
+  <outline>
+    <contour>
+      <point x="-99" y="502" type="curve"/>
+      <point x="-100" y="495"/>
+      <point x="-101" y="488"/>
+      <point x="-101" y="480" type="curve" smooth="yes"/>
+      <point x="-101" y="466"/>
+      <point x="-93" y="452"/>
+      <point x="-72" y="452" type="curve" smooth="yes"/>
+      <point x="-48" y="452"/>
+      <point x="-20" y="456"/>
+      <point x="10" y="462" type="curve" smooth="yes"/>
+      <point x="75" y="475"/>
+      <point x="115" y="502"/>
+      <point x="115" y="556" type="curve" smooth="yes"/>
+      <point x="115" y="597"/>
+      <point x="91" y="635"/>
+      <point x="33" y="635" type="curve" smooth="yes"/>
+      <point x="-16" y="635"/>
+      <point x="-48" y="604"/>
+      <point x="-48" y="554" type="curve" smooth="yes"/>
+      <point x="-48" y="534"/>
+      <point x="-43" y="518"/>
+      <point x="-36" y="507" type="curve"/>
+      <point x="-58" y="504"/>
+      <point x="-76" y="503"/>
+    </contour>
+    <contour>
+      <point x="20" y="519" type="curve"/>
+      <point x="12" y="528"/>
+      <point x="9" y="541"/>
+      <point x="9" y="551" type="curve" smooth="yes"/>
+      <point x="9" y="572"/>
+      <point x="21" y="581"/>
+      <point x="35" y="581" type="curve" smooth="yes"/>
+      <point x="49" y="581"/>
+      <point x="57" y="570"/>
+      <point x="57" y="555" type="curve"/>
+      <point x="56" y="530"/>
+      <point x="37" y="522"/>
+    </contour>
+  </outline>
+</glyph>

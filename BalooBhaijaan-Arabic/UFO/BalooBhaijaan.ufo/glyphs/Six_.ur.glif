@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Six.ur" format="1">
+  <advance width="545"/>
+  <unicode hex="06F6"/>
+  <outline>
+    <contour>
+      <point x="350" y="621" type="curve"/>
+      <point x="314" y="593"/>
+      <point x="271" y="577"/>
+      <point x="203" y="577" type="curve" smooth="yes"/>
+      <point x="129" y="577"/>
+      <point x="84" y="606"/>
+      <point x="62" y="616" type="curve"/>
+      <point x="43" y="599"/>
+      <point x="20" y="558"/>
+      <point x="20" y="520" type="curve" smooth="yes"/>
+      <point x="20" y="446"/>
+      <point x="93" y="414"/>
+      <point x="193" y="414" type="curve" smooth="yes"/>
+      <point x="232" y="414"/>
+      <point x="278" y="421"/>
+      <point x="297" y="429" type="curve"/>
+      <point x="297" y="71" type="line" smooth="yes"/>
+      <point x="297" y="5"/>
+      <point x="339" y="-10"/>
+      <point x="398" y="-10" type="curve" smooth="yes"/>
+      <point x="428" y="-10"/>
+      <point x="467" y="-4"/>
+      <point x="480" y="0" type="curve"/>
+      <point x="480" y="546" type="line"/>
+      <point x="468" y="591"/>
+      <point x="409" y="621"/>
+    </contour>
+  </outline>
+</glyph>

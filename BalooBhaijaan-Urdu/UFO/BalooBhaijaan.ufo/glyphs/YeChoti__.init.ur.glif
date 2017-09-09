@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="YeChoti.init.ur" format="1">
+  <advance width="380"/>
+  <outline>
+    <contour>
+      <point x="-2" y="140" type="line"/>
+      <point x="-7" y="123"/>
+      <point x="-9" y="107"/>
+      <point x="-9" y="90" type="curve" smooth="yes"/>
+      <point x="-9" y="51"/>
+      <point x="9" y="17"/>
+      <point x="34" y="0" type="curve"/>
+      <point x="74" y="0" type="line" smooth="yes"/>
+      <point x="240" y="0"/>
+      <point x="340" y="103"/>
+      <point x="340" y="285" type="curve" smooth="yes"/>
+      <point x="340" y="430"/>
+      <point x="297" y="449"/>
+      <point x="233" y="449" type="curve" smooth="yes"/>
+      <point x="210" y="449"/>
+      <point x="180" y="446"/>
+      <point x="154" y="439" type="curve"/>
+      <point x="157" y="407"/>
+      <point x="160" y="354"/>
+      <point x="160" y="286" type="curve" smooth="yes"/>
+      <point x="160" y="196"/>
+      <point x="119" y="140"/>
+      <point x="52" y="140" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="220" y="-215" type="curve"/>
+      <point x="270" y="-215"/>
+      <point x="300" y="-182"/>
+      <point x="300" y="-139" type="curve" smooth="yes"/>
+      <point x="300" y="-94"/>
+      <point x="266" y="-62"/>
+      <point x="220" y="-62" type="curve" smooth="yes"/>
+      <point x="175" y="-62"/>
+      <point x="140" y="-94"/>
+      <point x="140" y="-139" type="curve" smooth="yes"/>
+      <point x="140" y="-182"/>
+      <point x="172" y="-215"/>
+    </contour>
+    <contour>
+      <point x="31" y="-215" type="curve"/>
+      <point x="81" y="-215"/>
+      <point x="111" y="-182"/>
+      <point x="111" y="-139" type="curve" smooth="yes"/>
+      <point x="111" y="-94"/>
+      <point x="77" y="-62"/>
+      <point x="31" y="-62" type="curve" smooth="yes"/>
+      <point x="-14" y="-62"/>
+      <point x="-49" y="-94"/>
+      <point x="-49" y="-139" type="curve" smooth="yes"/>
+      <point x="-49" y="-182"/>
+      <point x="-17" y="-215"/>
+    </contour>
+  </outline>
+</glyph>
